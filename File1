@@ -1,6 +1,6 @@
 #include <stdio.h>
-void main(){ # this is new
 
+int main(){ //what'sup 
   printf("Hello World")
   return 0;
 }
