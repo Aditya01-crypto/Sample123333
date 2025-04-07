@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main(){ //what'sup 
+int maain(){ //what'sup 
 
   printf("Hello World")
   return 0;
